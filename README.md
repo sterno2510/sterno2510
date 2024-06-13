@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on [AICompanion](https://github.com/sterno2510/AIResponses)
 
-- 💬 Ask me about **React, JavaScript, ChatGPT, OpenAI API, Pipeline Optimization, Express, Mongoose, Ruby on Rails**
+- 💬 Ask me about **React, JavaScript, ChatGPT, OpenAI API, Pipeline Optimization, Node, Express, Mongoose, Ruby on Rails**
 
 - 📫 How to reach me **brian.stern2511@gmail.com**
 
