@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sterno2510&label=Profile%20views&color=0e75b6&style=flat" alt="sterno2510" /> </p>
 
-- 🔭 I’m currently working on [AICompanion](https://github.com/sterno2510/AIResponses)
+- 🔭 I’m currently working on [AICompanion (Next.js Version)](https://github.com/sterno2510/ai-companion-next)
 
 - 💬 Ask me about **React, JavaScript, ChatGPT, OpenAI API, Pipeline Optimization, Node, Express, Mongoose, Ruby on Rails**
 
